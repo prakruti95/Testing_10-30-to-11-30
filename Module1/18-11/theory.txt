@@ -1,0 +1,30 @@
+What is Testing:
+
+SDLC -> Software Development Lifecycle
+
+Stages:
+1)Requirement Gathering
+ -> Functional Requirement
+ -> Non Functional Requirement
+    diagram-Usecase,Activity
+
+2)Analysis
+what
+how
+
+
+3)Designing
+
+
+4)Implementation
+code
+
+5)Testing
+
+6)Maintenance
+1)corrective
+2)adaptive
+3)perfective
+
+
+
